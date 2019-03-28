@@ -1,0 +1,11 @@
+Normalized Maintenance Details,Algorithm 1,Algorithm 1 Probability,Algorithm 2,Algorithm 2 Probability,Final Class Label,Vessel Name,Vessel ID,Equipment Name,Equipment ID
+pump cylinder rusted need fix valve leak,Failures,0.999363711824643,Failures,0.731811561862201,Failures,Tanker 1,111,Diesel Engine,1861
+engine piston break high temperature exposure valve crack,Failures,0.9997983246687988,Failures,0.6618729890946654,Failures,Tanker 1,111,Diesel Engine,1974
+engine valve leak pump leak,Failures,0.9985950852063997,Failures,0.791378953287668,Failures,Tanker 2,123,Diesel Engine,1842
+washroom light routine nightly inspection gangway base crack need repair,Non-Failures,0.9992977083571144,Non-Failures,0.6671961975431224,Non-Failures,Tanker 1,111,Light Structures,1767
+water sink overflow temporary fix will permanent solution at next dock routine maintenance live space,Non-Failures,0.9999998618585504,Non-Failures,0.7237749906885032,Non-Failures,Tanker 2,123,Plumbing,1397
+need drawing routine inspection crack behind ladder can wait next dock,Non-Failures,0.9999992465455133,Non-Failures,0.7549267832918019,Non-Failures,Tanker 2,123,Navigation Console,1533
+request electric test annual review solenoid need routine overhaul,Non-Failures,0.9999967888795325,Non-Failures,0.7624857918323669,Non-Failures,Tanker 1,111,Navigation Console,1171
+wait part routine inspection pump normal,Non-Failures,0.9884690325779787,Non-Failures,0.6905463613771412,Non-Failures,Tanker 2,123,sw separator,1871
+heater need replacement impeller replaced,Failures,0.9648706511324342,Failures,0.5876253056655758,Failures,Tanker 1,111,heater,1134
+reweld dipstick tank find out starter break plan maintenance,Failures,0.9971910510645247,Failures,0.6002692432529528,Failures,Tanker 2,123,sw tank,1727
